@@ -1,4 +1,4 @@
-<mxfile modified="2023-04-01T11:42:33.075Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TBY-1ACmEkhxkS2A0czc" version="21.1.2" type="github">
+<mxfile modified="2023-04-01T11:42:55.460Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zqs8vLhNBpJFVuwI25ga" version="21.1.2" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1235" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="bed_RW8uVIO7wYIQm_9l-1010" value="Parameters:lead_id, Ответственный, Цвета, Тип заведения, Адрес, &lt;br&gt;Дата и время, Статус, По договору или нет?, cid, utm_метки&lt;br&gt;Measures: Бюджет, Метры, Сумма за доставку, Сумма за доп. продажу" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bed_RW8uVIO7wYIQm_9l-1011" value="ХРАНИЛИЩЕ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662.25" y="370" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
