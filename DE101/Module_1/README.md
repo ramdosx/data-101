@@ -1,5 +1,5 @@
-# Дашборд
-Готов дашборд для SuperStore в excel
+# Dashbord
+Gotov dashbord dlia SuperStore v excel
 
-## Схема
-Схема в диаграме diagram.drawio
+## Skhema
+Skhema v diagrame diagram.drawio
